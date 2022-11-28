@@ -1,6 +1,6 @@
 # Who Said It? (Backend)
 
-Rails API-only backend for the [Vue.js frontend](https://www.example.com) of Who Said It? The application uses PostgreSQL for development and production. Custom authentication uses Bcrypt and JSON Web Tokens. Production mailer uses AWS Simple Email Service via the [AWS SDK for Rails](https://github.com/aws/aws-sdk-rails). Authentication in users controller uses [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3) by sending a token from the frontend and then validating the token on the backend. 
+Rails API-only backend for the [Vue.js frontend](https://github.com/joelhoelting/who_said_it_v2_frontend) of Who Said It? The application uses PostgreSQL for development and production. Custom authentication uses Bcrypt and JSON Web Tokens. Production mailer uses AWS Simple Email Service via the [AWS SDK for Rails](https://github.com/aws/aws-sdk-rails). Authentication in users controller uses [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3) by sending a token from the frontend and then validating the token on the backend. 
 
 # Setup (Development and Production)
 
